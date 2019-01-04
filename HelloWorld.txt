@@ -1,5 +1,10 @@
 	class HelloWorld{
- 			publc static void main(String args[]){
+
+			void myMethod(){
 			System.out.println("Helloworld ....Welcome to Git ..");
+}
+
+ 			publc static void main(String args[]){
+			
 				}
 			}
