@@ -1,1 +1,2 @@
-this is file2 
+this is file2 created by branch in the master
+
